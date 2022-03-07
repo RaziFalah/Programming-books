@@ -1,4 +1,14 @@
 <h1>Viral and worthwhile programming languages</h1>
 
-[I'm a relative reference to a repository file](Books/CleanCode.pdf)
+[Clean code](Books/CleanCode.pdf)
 
+
+[Algorithms to Live By](Books/AlgoToLiveBy.pdf)
+
+
+[The C Programming Language](Books/Cascii.pdf)
+
+
+[The Hidden language of computer hardware and software](Books/TheHiddenLangComputerHardwareAndSoftware.pdf)
+
+[Automate the Boring Stuff with Python: Practical Programming for Total Beginners](Books/ATBS.pdf)
